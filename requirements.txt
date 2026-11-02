@@ -1,0 +1,8 @@
+
+fastapi
+uvicorn
+tensorflow==2.16.1
+numpy<2
+joblib
+scikit-learn
+pymysql
